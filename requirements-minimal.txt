@@ -1,0 +1,5 @@
+numpy>=1.26.4
+pandas>=2.2.3
+yfinance>=0.2.58
+plotly>=5.23.0
+git+https://github.com/AI4Finance-Foundation/FinRL.git
